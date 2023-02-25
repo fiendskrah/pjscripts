@@ -3,6 +3,7 @@
 #### ESRI pages
 
 [Defining parameters](https://pro.arcgis.com/en/pro-app/latest/arcpy/geoprocessing_and_python/defining-parameters-in-a-python-toolbox.htm)
+
 [Parameter data types](https://pro.arcgis.com/en/pro-app/latest/arcpy/geoprocessing_and_python/defining-parameter-data-types-in-a-python-toolbox.htm)
 
 
